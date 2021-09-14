@@ -24,7 +24,7 @@ public class September14 {
     public static void main(String[] args) {
         //System.out.println(Arrays.toString(returnArray(30,40)));
 
-        System.out.println(finalPrice(100, .10));
+        System.out.printf("%.2f",finalPrice(99.99, .40));
 
     }
 
